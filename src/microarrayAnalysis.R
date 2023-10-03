@@ -1,7 +1,5 @@
 setwd("E:/learning/bioinf_advance1")
-setRepositories()
-1 2
-### then Esc to exit
+
 library("RColorBrewer")
 library (limma)
 library(Biobase)
